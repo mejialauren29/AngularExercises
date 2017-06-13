@@ -1,2 +1,0 @@
-# AngularExercises
-course of angulajs
